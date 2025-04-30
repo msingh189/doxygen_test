@@ -1,5 +1,0 @@
-<map id="OpenCascade::LineSmoothing" name="OpenCascade::LineSmoothing">
-<area shape="rect" id="node1" title="Smooth all dofs in euler_vector for which smoothing_dofs is set to true. Exceptions are thrown if the..." alt="" coords="33,200,249,227"/>
-<area shape="rect" id="node2" href="$classOpenCascade_1_1NormalProjection.html" title=" " alt="" coords="5,111,276,137"/>
-<area shape="rect" id="node3" title=" " alt="" coords="41,5,241,61"/>
-</map>

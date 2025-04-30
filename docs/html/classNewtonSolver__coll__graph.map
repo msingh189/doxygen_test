@@ -1,7 +1,0 @@
-<map id="NewtonSolver" name="NewtonSolver">
-<area shape="rect" id="node1" title=" " alt="" coords="168,184,281,211"/>
-<area shape="rect" id="node2" href="$classPreconditionerOperator.html" title=" " alt="" coords="165,95,338,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="26,5,154,32"/>
-<area shape="rect" id="node5" href="$classJacobianOperator.html" title=" " alt="" coords="5,95,140,121"/>
-<area shape="rect" id="node4" href="$classNewtonArgument.html" title=" " alt="" coords="183,5,319,32"/>
-</map>
